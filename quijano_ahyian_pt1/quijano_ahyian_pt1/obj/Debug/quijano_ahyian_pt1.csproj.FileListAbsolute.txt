@@ -1,0 +1,7 @@
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\bin\Debug\quijano_ahyian_pt1.exe.config
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\bin\Debug\quijano_ahyian_pt1.exe
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\bin\Debug\quijano_ahyian_pt1.pdb
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\obj\Debug\quijano_ahyian_pt1.csproj.AssemblyReference.cache
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\obj\Debug\quijano_ahyian_pt1.csproj.CoreCompileInputs.cache
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\obj\Debug\quijano_ahyian_pt1.exe
+D:\quijano_ahyian_pt1\quijano_ahyian_pt1\obj\Debug\quijano_ahyian_pt1.pdb
